@@ -38,3 +38,4 @@ Kya karun haaye kuch kuch hota hai
 =======
 Kya karun haaye kuch kuch hota hai
 dil da ni mada tera sidhu moosewala>>>>>>> pyhton_chess
+sunyo hazur sunyo hazur wageh to pind thoda kina k dur
